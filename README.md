@@ -25,7 +25,25 @@ LINK TO DEPLOYED SITE FOUND [HERE](google.com)
 
 ## INSTALLATION
 
+Install JS
 
+![InstallJS](./images/installJS-Methods.PNG "Install JS Methods")
+
+Database JS
+
+![DatabaseJS](./images/databaseJS-methods.PNG "Database JS Methods")
+
+Module Plugins
+
+![ModulePlugins](./images/Module-Plugins.PNG "Module Plugins")
+
+Module CSS Loader
+
+![ModuleCSSLoader](./images/Module-CSS-Loader.PNG "Module CSS Loader")
+
+Asset Cache 
+
+![AssetCache](./images/Asset-Cache-SW.PNG "Asset Cache Loader")
 
 ## LICENSE
 
