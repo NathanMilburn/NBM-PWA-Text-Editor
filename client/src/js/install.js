@@ -19,7 +19,7 @@ butInstall.addEventListener('click', async () => {
     promptEvent.prompt();
    
     window.deferredPrompt = null;
-  
+//   TODO: Look into why hidden does not work
     butInstall.classList.toggle('hidden', true);
 });
 
