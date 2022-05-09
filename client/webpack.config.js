@@ -28,6 +28,24 @@ module.exports = () => {
         swDest: 'src-sw.js',
       }),
 
+      // new WorkboxPlugin.GenerateSW({
+      //   exclude: [/\.(?:png|jpg|jpeg|svg)$/],
+  
+      //   runtimeCaching: [{
+      //     urlPattern: /\.(?:png|jpg|jpeg|svg)$/,
+
+      //     handler: 'CacheFirst',
+  
+      //     options: {
+      //       cacheName: 'images',
+  
+      //       expiration: {
+      //         maxEntries: 2,
+      //       },
+      //     },
+      //   }],
+      // }),
+
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
