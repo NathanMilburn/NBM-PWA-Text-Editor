@@ -16,7 +16,7 @@
 
 ## DESCRIPTION
 
-
+J.A.T.E is a text editor that can be
 
 ## APPLICATION IN USE
 
